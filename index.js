@@ -6,3 +6,7 @@ function writeCards(arr, name){
     
     return newArr;
 }
+
+function countdown(num){
+  
+}
